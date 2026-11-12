@@ -24,7 +24,7 @@ SECTIONS = [
  "Ama gerçek farklıydı. Çetenin, dokuzu polis olmak üzere en az on üç kişinin ölümünden sorumlu olduğuna inanılıyor."),
 ("joplin",
  "Nisan bin dokuz yüz otuz üç. Çete, Missouri'nin Joplin kentinde bir garajın üstündeki daireye yerleşti. "
- "Yanlarında Clyde'ın ağabeyi Buck, Buck'ın eşi Blanche ve genç W. D. Jones vardı. Komşular şüphelendi. "
+ "Yanlarında Clyde'ın ağabeyi Buck, Buck'ın eşi Blanche ve çetenin genç üyesi Jones vardı. Komşular şüphelendi. "
  "On üç Nisan'da polis kapıya geldi. Çıkan çatışmada iki polis hayatını kaybetti, çete kaçtı. "
  "Geride silahlar, Bonnie'nin yazdığı bir şiir ve o film ruloları kaldı. "
  "İki gün sonra fotoğraflar gazetenin ilk sayfasındaydı. "
@@ -90,11 +90,11 @@ SHORTS = [
  "Yirmi üç Mayıs bin dokuz yüz otuz dört, Louisiana. Altı polis çalıların arasında saatlerdir bekliyordu. "
  "Kamyonet, çetedeki bir arkadaşlarının babasına aitti. Clyde onu tanıdı ve yavaşladı. "
  "Her şey saniyeler içinde bitti. Onları ele veren, güvendikleri bir aileydi."),
-("short6_araba", "Bu Arabada 150'den Fazla Kurşun İzi Var ve Hâlâ Sergileniyor 🚗 Bonnie ve Clyde",
- "Bu arabaya yüz elliden fazla kurşun isabet etti. Ve araba bugün hâlâ sergileniyor. "
+("short6_araba", "Bu Arabada 150'den Fazla Kurşun İzi Var ve Hâlâ Duruyor 🚗 Bonnie ve Clyde",
+ "Bu arabaya yüz elliden fazla kurşun isabet etti. Ve o araba bugün hâlâ duruyor. "
  "Bin dokuz yüz otuz dört model bir Ford V sekiz. Clyde onu Kansas'ta bir aileden çalmıştı. "
  "Pusudan sonra araba yıllarca panayırlarda dolaştırıldı; insanlar görmek için para ödedi. "
- "Bugün Amerika'da, Nevada'da sergileniyor. Aradan doksan yıldan fazla geçti; kurşun izleri hâlâ yerinde."),
+ "Aradan doksan yıldan fazla geçti. Araba da üzerindeki kurşun izleri de hâlâ yerinde."),
 ]
 
 if __name__ == "__main__":
